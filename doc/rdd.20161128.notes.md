@@ -71,7 +71,7 @@ project in the right direction without a lot of process to ensure you do the
 right thing.
 ```
 
-rdd is a simplification of documentation driven deploymetn (ddd).
+rdd is a simplification of documentation driven deployment (ddd).
 
 
 ```bash
@@ -113,7 +113,7 @@ code.
 
 ```
 
-group coordination
+rdd facilitates group coordination on parallel projects
 
 ```bash
 
@@ -123,7 +123,7 @@ text. The simple act of writing down a proposed solution means everyone has a
 concrete idea that can be argued about and iterated upon.
 ```
 
-peer review
+rdd facilitates peer review on planned work
 
 ```bash
 
