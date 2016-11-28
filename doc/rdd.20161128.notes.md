@@ -7,7 +7,7 @@ owner: dconover:201161128
  while looking for notes on document driven development, found several 
 references to "readme driven deployment" as the the first documented discussion.
 
-## referecene
+## reference
   1. http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
   2. link to [hackernews discussion](https://news.ycombinator.com/item?id=1627246)
 
