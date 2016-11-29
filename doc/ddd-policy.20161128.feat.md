@@ -8,7 +8,8 @@ owner: dconover:20161128
   1. [reference discussion](#reference-discussion)
 
 ## overview
-  document useful features of document driven {developement,deployment}
+  document useful features and common critiues of document driven
+{developement,deployment} (ddd)
 
 ## reference
   1. http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
@@ -23,4 +24,4 @@ owner: dconover:20161128
 
   1. [readme driven development (rdd)](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) [discussion](rdd.20161128.notes.md)
   1. from collectiveidea.com, [document  driven development (rdd)](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development) [discussion](collectiveidea-ddd.20161128.notes.md)
-
+  1. schwuk-ddd.20161128.notes.md
