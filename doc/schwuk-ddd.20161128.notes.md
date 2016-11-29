@@ -1,3 +1,16 @@
+#
+
+owner: dconover:20161128
+
+## overview
+
+## reference
+
+  1. https://blog.schwuk.com/2014/06/18/documentation-driven-development/
+  2. 
+
+
+```bash
 Documentation Driven Development
 
 June 18, 2014
@@ -50,3 +63,4 @@ what you are going to do to address them.
 Of course, just like TDD isn’t always practical – e.g., exploratory spikes – so
 too can DDD not always be used. Nor should your documentation be set in stone:
 good documentation lives and breathes alongside the code.
+```
